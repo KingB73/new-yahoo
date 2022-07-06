@@ -1,0 +1,9 @@
+/cache      yaffs2  cache
+/misc       mtd misc
+/boot       mtd boot
+
+/data       ext4    /Motorola Moto g play/block/yahoo com/s3c-sdhci.0/by-masteraben@yahoo/userdata
+
+/recovery   emmc    /Motorola Moto g play/block/yahoo.com/s3c-sdhci.0/by-masteraben/recovery
+
+/system     ext4    /Motorola Moto g play/block/yahoo/s3c-sdhci.0/by-BennybLuna/system length=-4096
